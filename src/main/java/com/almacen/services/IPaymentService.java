@@ -1,10 +1,6 @@
 package com.almacen.services;
 
-
-import java.util.List;
-
 import com.almacen.Dtos.BuyDTO;
-import com.almacen.Dtos.ProductDto;
 
 public interface IPaymentService {
 

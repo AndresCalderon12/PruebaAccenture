@@ -1,17 +1,11 @@
 package com.almacen.services.implementation;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.time.LocalTime;
-import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
-import java.util.Iterator;
 import java.util.List;
 
-import org.apache.catalina.connector.Response;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Service;
 
