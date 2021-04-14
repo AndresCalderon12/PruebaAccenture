@@ -5,7 +5,11 @@ El proyecto fue creado usando Java 1.8, SpringBoot 2.0.1
 # EndPoint y JSONS de prueba
 
 estos EndPoints fueron probados haciendo uso del software PostMan
+
+
 localhost:8089/payments/order
+
+
 {
     "tpyeIdBuyer":"36",
     "IdBuyer":"1077974701",
@@ -23,7 +27,10 @@ localhost:8089/payments/order
 }
 localhost:8089/payments/deleteorder?idBill=1
 
+
 localhost:8089/payments/editorder?idBill=1
+
+
 {
     "tpyeIdBuyer":"36",
     "IdBuyer":"1077974701",
