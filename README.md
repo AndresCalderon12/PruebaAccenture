@@ -1,6 +1,6 @@
 # Tecnologias
 
-El proyecto fue creado usando Java 1.8, SpringBoot 2.0.1
+El proyecto fue creado usando Java 1.8, SpringBoot 2.0.1, loombok 1.8.12
 
 # EndPoint y JSONS de prueba
 
